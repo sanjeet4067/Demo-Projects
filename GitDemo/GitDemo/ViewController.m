@@ -15,8 +15,9 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad]; 
+    [super viewDidLoad];
     NSLog(@"Hello! World.");
+    NSLog(@"I am using xcode first time.");
 }
 
 
